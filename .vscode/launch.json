@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ReduceApplication<reduce>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.happysmile.reduce.ReduceApplication",
+            "projectName": "reduce",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
